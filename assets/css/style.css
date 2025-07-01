@@ -7,17 +7,27 @@
 
 /* General Styles */
 
-body {min-height:100vh; display: flex; flex-direction: column;
+body {
+    min-height:100vh;
+    display: flex;
+    flex-direction: column;
 /* generic project styles */
-color:#3a3a3a; font-family:'Lato', sans-serif;
+    color:#3a3a3a;
+    font-family:'Lato', sans-serif;
 }
 
 /* Main content styling */
 
-header {background-color:lightcoral}
+header {
+    background-color:lightcoral;
+}
 
-main {background-color: lightblue;
+h1 {font-family:'Oswald', sans-serif;}
+
+main {
+    background-color: lightblue;
  /* make main element push footer to bottom    */
-flex: 1 0 auto;}
+flex: 1 0 auto;
+}
 
 footer {background-color: orange;}
