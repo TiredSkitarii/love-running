@@ -23,8 +23,11 @@ h1, h2, h3 {
     color:#252525
 }
 
+
+
 /* Main content styling */
 
+/* Header */
 header {
     background-color:#ffffff;
     padding:0 1rem;
@@ -77,6 +80,8 @@ nav {
 .nav-toggle-label {
     font-size: 2rem;
 }
+
+/* Main Section */
 
 main {
  /* make main element push footer to bottom    */
