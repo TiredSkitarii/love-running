@@ -239,6 +239,6 @@ hr {
         align-self: flex-start;
     }
     #benefits-physical > div {
-        alignself: flex-end;
+        align-self: flex-end;
     }
 }
