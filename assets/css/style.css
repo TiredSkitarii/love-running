@@ -79,10 +79,16 @@ nav {
 }
 
 main {
-    background-color: lightblue;
  /* make main element push footer to bottom    */
 flex: 1 0 auto;
 margin-top: 47px;
+}
+
+/* Hero section */
+#hero {
+    height:600px;
+    width:100%;
+    background: url("../images/hero-image-love-running-project.webp") no-repeat center center/cover;
 }
 
 /* Footer */
