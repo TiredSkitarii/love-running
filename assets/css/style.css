@@ -157,21 +157,6 @@ hr {
     justify-content: center;
 }
 
-/* Footer */
-#social-networks {
-    text-align: center;
-    padding: 20px 0;
-    display:flex;
-    justify-content: space-evenly;
-    list-style-type: none;
-}
-
-#social-networks i {
-    font-size: 160%;
-    padding: 5%;
-    color: #3a3a3a;
-}
-
 /* meet up times section */
 #times {
     background: url("../images/dublin-city.webp") no-repeat center/cover;
@@ -191,6 +176,21 @@ hr {
 
 #times h3 {
     color:#fafafa;
+}
+
+/* Footer */
+#social-networks {
+    text-align: center;
+    padding: 20px 0;
+    display:flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+#social-networks i {
+    font-size: 160%;
+    padding: 5%;
+    color: #3a3a3a;
 }
 
 /* Media query: tablets and larger (768px +) */
